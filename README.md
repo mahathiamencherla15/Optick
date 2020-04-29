@@ -27,7 +27,7 @@ git clone https://github.com/mahathiamencherla15/Optick.git
 5. Run the code for generate a dataset of 1000 images.
 ```bash
 $python3 amgtest.py
-```bash
+```
 6. The Human Detection Mode requires a pretrained ML/DL model which can be done on your machine easily. Use this link below as reference for the same. 
 ```bash
 $ https://towardsdatascience.com/detecting-people-with-a-raspberrypi-a-thermal-camera-and-machine-learning-376d3bbcd45c
