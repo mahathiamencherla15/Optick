@@ -24,11 +24,14 @@ Apart from the above, you will need wires, and a battery to wire up the Raspberr
 $ git clone https://github.com/mahathiamencherla15/Optick.git
 ```
 4. Configure the pins as per your connections and make the changes to the code.
-5. Run the code for generate a dataset of 1000 images.
+5. Run the code to generate a your own dataset of 1000 images.
 ```bash
 $ python3 amgtest.py
 ```
+You can also view your positions on PyGame.
+
 6. The Human Detection Mode requires a pretrained ML/DL model which can be done on your machine easily. Use this link below as reference for the same. 
+
 https://towardsdatascience.com/detecting-people-with-a-raspberrypi-a-thermal-camera-and-machine-learning-376d3bbcd45c
 
 7. Run this code for execution
